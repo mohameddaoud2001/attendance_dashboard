@@ -1,4 +1,3 @@
-```markdown
 # HR Attendance Dashboard with Power BI
 
 A Power BI dashboard for visualizing HR attendance data, including metrics on employee presence, work-from-home trends, and sick leave rates. This project automates data analysis and visualization, enabling HR managers to track trends, receive alerts, and make data-driven decisions.
